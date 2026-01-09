@@ -1,3 +1,6 @@
+# This fork is created for personal study and documentation purposes, based on the original ArcFace PyTorch implementation.
+
+
 # arcface-pytorch
 pytorch implement of arcface 
 
